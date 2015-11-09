@@ -18,10 +18,10 @@ If a child is selecting the wrong answer continuously, we could give them a hint
 
 # Built with
 
-*leap-motion
-*node.js
-*angular.js
-*javascript
-*firebase
-*pure.css
-*travis-ci
+* leap-motion
+* node.js
+* angular.js
+* javascript
+* firebase
+* pure.css
+* travis-ci
